@@ -1,1 +1,1 @@
-#[ ](https://yfamily.ml/plugin/aliyun.plugin)
+https://yfamily.ml/plugin/aliyun.plugin
